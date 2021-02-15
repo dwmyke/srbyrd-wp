@@ -9,7 +9,6 @@ module.exports = {
         url: "https://srbyrd.megaultra.space/graphql",
       },
     },
-    "gatsby-plugin-emotion",
     "gatsby-plugin-sharp",
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-sitemap",
@@ -29,5 +28,6 @@ module.exports = {
       },
       __key: "images",
     },
+    "@chakra-ui/gatsby-plugin",
   ],
 };
